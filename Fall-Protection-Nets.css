@@ -1,0 +1,274 @@
+.u-block-f1e3-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-f1e3-3 {
+  position: absolute;
+  left: 0;
+  padding: 7px;
+}
+
+.u-block-f1e3-4 {
+  position: absolute;
+  right: 0;
+  padding: 7px;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/Soft-Landing-Fall-Arrest-Systems.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-1-1 .u-text-1 {
+  width: 814px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3.75rem;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 3rem;
+    width: 340px;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: url("images/school-safety-nets.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-1-2 .u-text-1 {
+  width: 814px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 494px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    width: 340px;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: url("images/construction-area-safety-net-installation-services.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-1-3 .u-text-1 {
+  width: 814px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3.75rem;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3rem;
+    width: 340px;
+  }
+}
+
+ .u-section-1-4 {
+  background-image: url("images/building-centre-area-safety-net-500x500.webp");
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-1-4 .u-sheet-1 {
+  min-height: 599px;
+}
+
+.u-section-1-4 .u-text-1 {
+  width: 814px;
+  margin: 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 494px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 3.75rem;
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 3rem;
+    width: 340px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 635px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 66px 366px 0 31px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin: 20px 86px 60px 31px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 197px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    font-size: 1.3333333333333333rem;
+  }
+}

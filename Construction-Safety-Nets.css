@@ -1,0 +1,473 @@
+.u-block-1d5e-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-1d5e-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-1d5e-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/safety-nets.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1-1 .u-text-1 {
+  margin: 60px 221px 60px 260px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 160px;
+    margin-right: 121px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 50px;
+    margin-right: 11px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 179px;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/s03-img4-6.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1-2 .u-text-1 {
+  margin: 60px 219px 60px 262px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-left: 162px;
+    margin-right: 119px;
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-left: 52px;
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/Indonet-Jan-blog-8-Green-Net-for-construction-3-Banner-Image-min.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1-3 .u-text-1 {
+  margin: 60px 219px 60px 262px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-left: 162px;
+    margin-right: 119px;
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-left: 52px;
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+ .u-section-1-4 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/construction-net.jpg');
+  background-position: 50% 50%;
+}
+
+.u-section-1-4 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1-4 .u-text-1 {
+  margin: 60px 219px 60px 262px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    margin-left: 162px;
+    margin-right: 119px;
+    font-size: 4.5rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    margin-left: 52px;
+    margin-right: 9px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-4 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1-4 .u-text-1 {
+    font-size: 3rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 558px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 53px auto 0 45px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.4375rem;
+  font-weight: 500;
+  margin: 24px 203px 60px 45px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 3px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    font-size: 1.2777777777777777rem;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 1503px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 527px;
+  height: 425px;
+  --radius: 20px;
+  margin: 85px auto 0 21px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 531px;
+  height: 822px;
+  --radius: 20px;
+  margin: -425px 39px 0 auto;
+}
+
+.u-section-3 .u-image-3 {
+  width: 527px;
+  height: 375px;
+  --radius: 20px;
+  margin: -375px auto 0 21px;
+}
+
+.u-section-3 .u-btn-1 {
+  background-image: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: -41px auto 0 192px;
+  padding: 0;
+}
+
+.u-section-3 .u-btn-2 {
+  background-image: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: -431px auto 0 192px;
+  padding: 0;
+}
+
+.u-section-3 .u-btn-3 {
+  background-image: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 355px 212px 0 auto;
+  padding: 0;
+}
+
+.u-section-3 .u-image-4 {
+  width: 1080px;
+  height: 490px;
+  --radius: 20px;
+  margin: 40px auto 0 21px;
+}
+
+.u-section-3 .u-btn-4 {
+  background-image: none;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: -43px auto 60px;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1439px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-right: 12px;
+  }
+
+  .u-section-3 .u-image-4 {
+    width: 940px;
+    height: 426px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-4 {
+    margin-top: 21px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1339px;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-image-4 {
+    width: 720px;
+    height: 326px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 1258px;
+  }
+
+  .u-section-3 .u-image-1 {
+    margin-left: 13px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-right: 9px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-left: 13px;
+  }
+
+  .u-section-3 .u-image-4 {
+    width: 540px;
+    height: 245px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 587px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 340px;
+    height: 274px;
+    margin-top: 679px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 340px;
+    height: 526px;
+    margin-top: -274px;
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 340px;
+    height: 242px;
+    margin-top: -79px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-top: -129px;
+  }
+
+  .u-section-3 .u-btn-2 {
+    margin-top: -846px;
+  }
+
+  .u-section-3 .u-btn-3 {
+    margin-top: -231px;
+  }
+
+  .u-section-3 .u-image-4 {
+    width: 340px;
+    height: 154px;
+    margin-top: 1041px;
+  }
+
+  .u-section-3 .u-btn-4 {
+    margin-bottom: -925px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 836px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 40px auto 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  width: 476px;
+  margin: 11px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-2 {
+    font-size: 1.3333333333333333rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-text-2 {
+    width: 340px;
+  }
+}
